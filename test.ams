@@ -1,0 +1,13 @@
+Test file to test if the analyses section is processed correctly
+# Blocks
+Left empty here, since we only need analyses :o
+# Analyses
+Analysis	Sample ID	Sample Description	Measurement	Start Time	Accumulated Block Time	Excluded Ratio	C12 Charge	C13 Charge	C14 Counts	C12 Time	Stop Conditions	Stop Time
+1	'7'	'1,3mm Graphite'	1	'2020-May-07 17:06:03.544941'	120.0	nan	inf	4.860340000000001e-07	341	1.2000000000000002	['Time limit']	'2020-May-07 17:08:18.325870'
+2	'8'	'1,3mm Graphite'	1	'2020-May-07 17:08:18.325870'	120.0	nan	inf	4.884520000000001e-07	366	1.2000000000000002	['Time limit']	'2020-May-07 17:10:33.077671'
+3	'9'	'1,3mm Graphite'	1	'2020-May-07 17:10:33.077671'	120.0	0.0	4.256246e-05	4.626300000000001e-07	406	1.2000000000000002	['Time limit']	'2020-May-07 17:12:47.869253'
+4	'10'	'1,3mm Graphite'	1	'2020-May-07 17:12:47.869253'	120.0	0.0	4.252458e-05	4.6171900000000006e-07	3109	1.2000000000000002	['Time limit']	'2020-May-07 17:15:02.701415'
+# Batch
+Left empty here, since we only need analyses :o
+# Log
+Left empty here, since we only need analyses :o
